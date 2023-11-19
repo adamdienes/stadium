@@ -1,0 +1,196 @@
+/* Készítette: Dienes Ádám - i93ajy */
+/* Webprogramozás: PHP beadandó */
+
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+    font-family: "Roboto", sans-serif;
+    width: 1100px;
+    margin: 0 auto;
+    position: relative;
+    background-image: url('../img/bg_img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container {
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgba(255, 255, 255, 0.90);
+    backdrop-filter: blur(11px);
+    -webkit-backdrop-filter: blur(11px);
+    height: 100vh;
+    overflow-y:scroll;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#subtitle {
+    margin-top: -20px;
+    margin-bottom: 45px;
+}
+
+button > a { color: white; }
+a, a:visited, a:hover, a:active { text-decoration: none; color: inherit; }
+ul { list-style-type: square; } 
+
+#login, #logout, #edit, .delete_match {
+    margin: 0 auto;
+    width: 185px;
+    background-color: #02518a; 
+    border: none;
+    color: white;
+    padding: 16px 35px;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.8;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+#edit {
+    margin-top: 25px;
+    background-color: #8FE388;
+    color: black;
+    font-weight: bold;
+}
+#reg {
+    background-color: #323232; 
+    border: none;
+    color: white;
+    padding: 16px 35px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.8;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#back {
+    background-color: #323232; 
+    color: white;
+    width: 185px;
+    padding: 16px 16px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 0px;
+    opacity: 0.8;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#loadButton {
+    background-color: #025a11; 
+    color: white;
+    padding: 16px 35px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 0px;
+    border: none;
+    opacity: 0.8;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#send {
+    margin: 0 auto;
+    background-color: #02518a; 
+    border: none;
+    color: white;
+    padding: 16px 35px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.8;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.delete_match {
+    background-color: #FF7276; 
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+#login:hover, #logout:hover, #reg:hover, #back:hover, #loadButton:hover, #send:hover, #edit:hover, .delete_match:hover  { opacity: 1; }
+#buttons { text-align: right; padding-top: 30px;}
+#details { text-align: justify;}
+
+.title {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.match {
+    margin: 0 auto;
+    width: 70%;
+    padding: 10px 10px 10px 30px;
+    margin-bottom: 10px;
+}
+
+#fav, #sum { padding-top: 10px; }
+.matches { list-style-type: none; }
+.delete { color: red; }
+#pad { padding-top: 25px; }
+#form_title { text-align: left; margin-top: 250px;}
+
+#form {
+    text-align: left;
+    position: absolute;
+    width: 60%;
+    left: 50%;
+    top: 30%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+form > input {
+    padding: 5px 0px;
+    width: 270px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    opacity: 0.7;
+}
+
+#teams {
+   margin-bottom: 400px;
+   height: fit-content;
+}
+
+#teams > li {
+    color: white;
+    width: 400px;
+    height: fit-content;
+    background-color: #02142cab;
+    display: flex;
+    padding: 15px 15px;
+    float: left;
+    margin: 5px 5px;
+}
+
+.star { color: yellow; }

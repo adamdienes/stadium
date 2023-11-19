@@ -1,0 +1,62 @@
+{
+    "teamid1": {
+        "id": "teamid1",
+        "name": "Zalaegerszeg FC",
+        "city": "Zalaegerszeg"
+    },
+    "teamid2": {
+        "id": "teamid2",
+        "name": "Győr FC",
+        "city": "Győr"
+    },
+    "teamid3": {
+        "id": "teamid3",
+        "name": "Újpest FC",
+        "city": "Budapest"
+    },
+    "teamid4": {
+        "id": "teamid4",
+        "name": "Debreceni VSC",
+        "city": "Debrecen"
+    },
+    "teamid5": {
+        "id": "teamid5",
+        "name": "Ferencvárosi TC",
+        "city": "Budapest"
+    },
+    "teamid6": {
+        "id": "teamid6",
+        "name": "Honvéd FC",
+        "city": "Budapest"
+    },
+    "teamid7": {
+        "id": "teamid7",
+        "name": "Keszthely FC",
+        "city": "Keszthely"
+    },
+    "teamid8": {
+        "id": "teamid8",
+        "name": "Mol Fehérvár FC",
+        "city": "Székesfehérvár"
+    },
+    "teamid9": {
+        "id": "teamid9",
+        "name": "MTK Budapest",
+        "city": "Budapest"
+    },
+    "teamid10": {
+        "id": "teamid10",
+        "name": "Puskás Akadémia",
+        "city": "Budapest"
+    },
+    "teamid11": {
+        "id": "teamid11",
+        "name": "Paks FC",
+        "city": "Paks"
+    },
+    "teamid12": {
+        "id": "teamid12",
+        "name": "Pécsi MFC",
+        "city": "Pécs"
+    }
+}

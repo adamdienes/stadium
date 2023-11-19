@@ -1,0 +1,164 @@
+{
+    "1": {
+        "teamid": "teamid1",
+        "text": "Hajr\u00e1 fi\u00fak!",
+        "author": "lelkes_aron",
+        "date": "2021-12-22 13:32"
+    },
+    "2": {
+        "teamid": "teamid2",
+        "text": "J\u00f3 volt a legut\u00f3bbi meccs!",
+        "author": "lelkes_aron",
+        "date": "2021-12-22 13:32"
+    },
+    "3": {
+        "teamid": "teamid9",
+        "text": "Sajnos d\u00f6ntetlen lett :(",
+        "author": "lelkes_aron",
+        "date": "2021-12-22 13:33"
+    },
+    "4": {
+        "teamid": "teamid10",
+        "text": "Meg fogj\u00e1tok nyerni a bajnoks\u00e1got! Csak \u00edgy tov\u00e1bb!",
+        "author": "lelkes_aron",
+        "date": "2021-12-22 13:33"
+    },
+    "5": {
+        "teamid": "teamid7",
+        "text": "Ez nagyon v\u00e1ratlanul \u00e9rt....",
+        "author": "lelkes_aron",
+        "date": "2021-12-22 13:33"
+    },
+    "6": {
+        "teamid": "teamid2",
+        "text": "Gyer\u00fcnk!",
+        "author": "szurkolo",
+        "date": "2021-12-22 13:34"
+    },
+    "7": {
+        "teamid": "teamid1",
+        "text": "Csak \u00edgy tov\u00e1bb!!",
+        "author": "szurkolo",
+        "date": "2021-12-22 13:34"
+    },
+    "8": {
+        "teamid": "teamid3",
+        "text": "Menni fog fi\u00fak! Szurkolok",
+        "author": "szurkolo",
+        "date": "2021-12-22 13:34"
+    },
+    "9": {
+        "teamid": "teamid11",
+        "text": "Csak a PAKS!!",
+        "author": "szurkolo",
+        "date": "2021-12-22 13:34"
+    },
+    "10": {
+        "teamid": "teamid10",
+        "text": "Gyer\u00fcnk, gyer\u00fcnk!",
+        "author": "szurkolo",
+        "date": "2021-12-22 13:34"
+    },
+    "11": {
+        "teamid": "teamid1",
+        "text": "Ez meglepett! :o",
+        "author": "peter12",
+        "date": "2021-12-22 13:35"
+    },
+    "12": {
+        "teamid": "teamid7",
+        "text": "Uhh ez nem volt j\u00f3...",
+        "author": "peter12",
+        "date": "2021-12-22 13:35"
+    },
+    "13": {
+        "teamid": "teamid5",
+        "text": "Csak a FRADI!",
+        "author": "peter12",
+        "date": "2021-12-22 13:36"
+    },
+    "14": {
+        "teamid": "teamid3",
+        "text": "Go go go!!",
+        "author": "peter12",
+        "date": "2021-12-22 13:36"
+    },
+    "15": {
+        "teamid": "teamid9",
+        "text": "Legk\u00f6zelebb j\u00f3k lesztek!",
+        "author": "peter12",
+        "date": "2021-12-22 13:36"
+    },
+    "16": {
+        "teamid": "teamid6",
+        "text": "Nyomj\u00e1tok!",
+        "author": "peter12",
+        "date": "2021-12-22 13:38"
+    },
+    "17": {
+        "teamid": "teamid1",
+        "text": "RIA RIA!!",
+        "author": "anna",
+        "date": "2021-12-22 13:57"
+    },
+    "18": {
+        "teamid": "teamid6",
+        "text": "Hajr\u00e1\u00e1\u00e1 fi\u00fak!",
+        "author": "anna",
+        "date": "2021-12-22 13:58"
+    },
+    "19": {
+        "teamid": "teamid4",
+        "text": "Nagyon sz\u00e9p volt!",
+        "author": "anna",
+        "date": "2021-12-22 13:58"
+    },
+    "20": {
+        "teamid": "teamid8",
+        "text": "Menni fog!",
+        "author": "anna",
+        "date": "2021-12-22 13:58"
+    },
+    "21": {
+        "teamid": "teamid5",
+        "text": "Nagyon j\u00f3!",
+        "author": "Vir\u00e1g",
+        "date": "2021-12-29 22:51"
+    },
+    "23": {
+        "teamid": "teamid4",
+        "text": "Ez kir\u00e1ly volt!\r\n",
+        "author": "zsolt.peterffy",
+        "date": "2021-12-30 15:21"
+    },
+    "24": {
+        "teamid": "teamid11",
+        "text": "Gyer\u00fcnk!!!",
+        "author": "zsolt.peterffy",
+        "date": "2021-12-30 16:40"
+    },
+    "25": {
+        "teamid": "teamid7",
+        "text": "Lorem ipsum",
+        "author": "zsolt.peterffy",
+        "date": "2021-12-30 16:40"
+    },
+    "26": {
+        "teamid": "teamid6",
+        "text": "BU\u00c9K!",
+        "author": "lelkes_aron",
+        "date": "2022-01-02 13:00"
+    },
+    "27": {
+        "teamid": "teamid7",
+        "text": "Igen, igen!!",
+        "author": "anna",
+        "date": "2022-01-02 14:30"
+    },
+    "28": {
+        "teamid": "teamid11",
+        "text": "\u00cdgy is van, csak \u00edgy tov\u00e1bb id\u00e9n is!",
+        "author": "anna",
+        "date": "2022-01-02 14:39"
+    }
+}

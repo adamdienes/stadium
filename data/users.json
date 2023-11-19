@@ -1,0 +1,81 @@
+{
+  "admin": {
+    "username": "admin",
+    "email": "admin@elstadion.hu",
+    "password": "$2y$10$ku.O2XNcC12p4xVIrnk59urSY39uTq5ccj9xP84T49TC4/6VRMCbe",
+    "isAdmin": true,
+    "fav": {
+      "15": "teamid8",
+      "16": "teamid1",
+      "18": "teamid9",
+      "19": "teamid2",
+      "20": "teamid7",
+      "21": "teamid6"
+    }
+  },
+  "nagy.bela": {
+    "username": "nagy.bela",
+    "email": "nagy.bela@gmail.com",
+    "password": "$2y$10$VnwAXt4sJPiMWl9//7QbgeHSRcB7YV0/ZP8OSz.0xR6lmCLfx6k9G",
+    "isAdmin": false,
+    "fav": []
+  },
+  "lelkes_aron": {
+    "username": "lelkes_aron",
+    "email": "lelkes_aron@gmail.com",
+    "password": "$2y$10$GW1TrPXdiKznrcCpoZ.3v.BHV4E3Cxw3qTC3M3oCXEunYizy07W/C",
+    "isAdmin": false,
+    "fav": ["teamid11", "teamid1", "teamid6", "teamid8"]
+  },
+  "szurkolo": {
+    "username": "szurkolo",
+    "email": "szurkolo@gmail.com",
+    "password": "$2y$10$/bssC8RdSm5xFz6hlgIjV.63/39sO0jc3kqHw6/dLp2OzknnufBh2",
+    "isAdmin": false,
+    "fav": []
+  },
+  "peter12": {
+    "username": "peter12",
+    "email": "peter12@gmail.com",
+    "password": "$2y$10$9BA05L8/ik9pOkl8tS/dnu7.65kAy14ZE1TVB4Q58bIIm2fYzXLKq",
+    "isAdmin": false,
+    "fav": ["teamid2", "teamid3", "teamid1"]
+  },
+  "anna": {
+    "username": "anna",
+    "email": "anna.kiss@gmail.com",
+    "password": "$2y$10$4tgRYLzwh/ZiY22SH2jyCOvvse1Cg2ke8ntWBrQnl6YCON5PLYdhK",
+    "isAdmin": false,
+    "fav": {
+      "1": "teamid10",
+      "3": "teamid1",
+      "5": "teamid12",
+      "6": "teamid4",
+      "7": "teamid2",
+      "9": "teamid3",
+      "10": "teamid11",
+      "11": "teamid5"
+    }
+  },
+  "Vir\u00e1g": {
+    "username": "Vir\u00e1g",
+    "email": "virag@gmail.com",
+    "password": "$2y$10$6zgCYWIccidJkWCkOeXn/.FVfhsrUzUqfuFEbebnD4oNGSKS8B9ka",
+    "isAdmin": false,
+    "fav": ["teamid11", "teamid5", "teamid10"]
+  },
+  "zsolt.peterffy": {
+    "username": "zsolt.peterffy",
+    "email": "zsolt.peterffy@gmail.com",
+    "password": "$2y$10$kW4TLEZXBtP1n92d2gY2puJTJu40e259NjFin.jBpca6MieLMKLdy",
+    "isAdmin": false,
+    "fav": ["teamid4"]
+  },
+  "jeno": {
+    "username": "jeno",
+    "email": "jeno_kozepes@gmail.com",
+    "password": "$2y$10$GinJ/idbeUuf6Qy2pHxliO8qpzBVyoNiln1pwcJNAQSvQ2ggGnQd.",
+    "isAdmin": false,
+    "fav": ["teamid4", "teamid1", "teamid3"]
+  }
+}
